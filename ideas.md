@@ -1,4 +1,4 @@
-testing testing Vim test22 plugin: word redudancy highlighter
+Vim test22 plugin: word redudancy highlighter
 - highlights words based on number of occurences in a document, from yellow to orange to red
 - yellow-red spectrum is calculated based on two factors:
 	- number of times the word appears in document
